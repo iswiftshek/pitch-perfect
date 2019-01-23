@@ -3,7 +3,7 @@
 ![Pitch Perfect](http://i68.tinypic.com/dyvbq1.jpg)
 
 ## Introduction
-> This is an iOS app developed under the [`Udacity` iOS Nanodegree] (https://in.udacity.com/course/ios-developer-nanodegree--nd003). It is a fun voice recorder and player that inputs speech and plays it back with different sound effects.
+> This is an iOS app developed under the `Udacity` iOS Nanodegree. It is a fun voice recorder and player that inputs speech and plays it back with different sound effects.
 
 ## Things To Have
 **[Xcode](https://developer.apple.com/xcode/)**
@@ -30,5 +30,6 @@ Before you begin, you should already have the Xcode downloaded and set up correc
 ## Acknowledgments
 
 * This project is a starter project for anyone who wants to get into iOS Application Development
-* Pitch Perfect is a part of [Udacity](https://in.udacity.com/) iOS Nanodegree and was developed during the study of the course 
+* Pitch Perfect is a part of [Udacity iOS Nanodegree](https://in.udacity.com/course/ios-developer-nanodegree--nd003) and was developed during the study of the course 
 * All rights reserved 
+
